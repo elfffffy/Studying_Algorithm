@@ -7,7 +7,14 @@
     <list default="true" id="7c1ab8a6-ba31-4a65-a598-ec7776f9f1da" name="Changes" comment="greedy/0331">
       <change beforePath="$PROJECT_DIR$/.autocp" beforeDir="false" afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Challenges/greedy-5-answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Challenges/greedy-5-answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/heapq-max.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/heapq-max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Challenges/greedy-6-answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/Challenges/greedy-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Challenges/greedy-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementation/Basic/implementation-1-answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Basic/implementation-1-answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementation/Basic/implementation-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Basic/implementation-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +50,36 @@
     "AutoCp Solution.greedy-4.executor": "Run",
     "AutoCp Solution.greedy-5-answer.executor": "Run",
     "AutoCp Solution.greedy-5.executor": "Run",
+    "AutoCp Solution.greedy-6-3.executor": "Run",
+    "AutoCp Solution.implementation-1-answer.executor": "Run",
+    "AutoCp Solution.implementation-1.executor": "Run",
     "Python.greedy-1.executor": "Run",
     "Python.greedy-2.executor": "Run",
     "Python.greedy-3.executor": "Run",
+    "Python.greedy-6-2.executor": "Run",
+    "Python.greedy-6-3.executor": "Run",
+    "Python.greedy-6-4.executor": "Run",
+    "Python.greedy-6-answer.executor": "Run",
+    "Python.greedy-6.executor": "Run",
+    "Python.heapq-max.executor": "Run",
+    "Python.heapq-min.executor": "Run",
+    "Python.heapq01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/wjd12/PycharmProjects/StudyAlgorithm/Implementation/Basic",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Implementation\Basic" />
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Functions" />
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Greedy\Challenges" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Implementation\Basic" />
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm" />
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Greedy" />
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Basic" />
     </key>
@@ -84,6 +110,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="greedy/0331" />

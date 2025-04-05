@@ -1,21 +1,22 @@
 n = int(input())
-data = list(input().split())
+plans = input().split()
+x, y = 1, 1
 
-x = 1
-y = 1
+# L, R, U, D 이동 방향
+dx = [0, 0, -1, 1]
+dy = [-1, 1, 0, 0]
+move_types = ['L', 'R', 'U', 'D']
 
-for i in data :
-    if i == 'R' :
-        if y != n :
-            y += 1
-    elif i == 'L' :
-        if y != 1:
-            y -= 1
-    elif i == 'U' :
-        if x != 1:
-            x -= 1
-    else :
-        if x != n:
-            x += 1
+# 하나씩 이동 확인
+for plan in plans :
+    # 이동 후 좌표 확인
+    for i in range(len(move_types)) :
+        if plan == move_types[i] :
+            nx = x + dx[i]
+            ny = y + dy[i]
+    # 공간을 벗어난 경우
+    if nx < 1 or ny < 1 or nx > n or ny > n :
+        continue
+    x, y = nx , ny
 
 print(x, y)
