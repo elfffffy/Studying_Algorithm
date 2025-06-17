@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c1ab8a6-ba31-4a65-a598-ec7776f9f1da" name="Changes" comment="greedy/0331">
-      <change afterPath="$PROJECT_DIR$/Implementation/Challenges/implementation-12-answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/Challenges/implementation-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Challenges/implementation-13-answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Challenges/implementation-13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.autocp" beforeDir="false" afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,6 +51,8 @@
     "AutoCp Solution.implementation-11-answer.executor": "Run",
     "AutoCp Solution.implementation-11.executor": "Run",
     "AutoCp Solution.implementation-12.executor": "Run",
+    "AutoCp Solution.implementation-13-answer.executor": "Run",
+    "AutoCp Solution.implementation-13.executor": "Run",
     "AutoCp Solution.implementation-2-answer.executor": "Run",
     "AutoCp Solution.implementation-2.executor": "Run",
     "AutoCp Solution.implementation-3-answer.executor": "Run",
@@ -77,12 +79,12 @@
     "Python.implementation-10.executor": "Run",
     "Python.implementation-12-answer.executor": "Run",
     "Python.implementation-12.executor": "Run",
+    "Python.implementation-13-answer.executor": "Run",
     "Python.implementation-7-answer.executor": "Run",
     "Python.implementation-8-answer.executor": "Run",
     "Python.rotate_a_matrix_by_90deg.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.github.pushpavel.autocp.toolWindowSelectedTabIndex": "1",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/wjd12/PycharmProjects/StudyAlgorithm/Implementation/Challenges",
     "settings.editor.selected.configurable": "preferences.pluginManager"
