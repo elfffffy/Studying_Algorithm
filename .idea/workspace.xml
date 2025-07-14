@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c1ab8a6-ba31-4a65-a598-ec7776f9f1da" name="Changes" comment="greedy/0331">
-      <change afterPath="$PROJECT_DIR$/Implementation/Challenges/implementation-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/BFS-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/DFS-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/DFS-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/DFS-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/DFS-BFS-1-answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/DFS-BFS-1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/DFS-BFS-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/queue-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/recursive-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/recursive-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/recursive-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS_BFS/Basic/stack-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.autocp" beforeDir="false" afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "AutoCp Solution.DFS-BFS-1-answer.executor": "Run",
+    "AutoCp Solution.DFS-BFS-1.executor": "Run",
     "AutoCp Solution.greedy-1-answer.executor": "Run",
     "AutoCp Solution.greedy-1.executor": "Run",
     "AutoCp Solution.greedy-2-answer.executor": "Run",
@@ -63,6 +77,11 @@
     "AutoCp Solution.implementation-8.executor": "Run",
     "AutoCp Solution.implementation-9-web.executor": "Run",
     "AutoCp Solution.implementation-9.executor": "Run",
+    "Python.BFS-1.executor": "Run",
+    "Python.DFS-1.executor": "Run",
+    "Python.DFS-2.executor": "Run",
+    "Python.DFS-3.executor": "Run",
+    "Python.DFS-BFS-1.executor": "Run",
     "Python.greedy-1.executor": "Run",
     "Python.greedy-2.executor": "Run",
     "Python.greedy-3.executor": "Run",
@@ -81,20 +100,26 @@
     "Python.implementation-14.executor": "Run",
     "Python.implementation-7-answer.executor": "Run",
     "Python.implementation-8-answer.executor": "Run",
+    "Python.queue-1.executor": "Run",
+    "Python.recursive-1.executor": "Run",
+    "Python.recursive-2.executor": "Run",
+    "Python.recursive-3.executor": "Run",
     "Python.rotate_a_matrix_by_90deg.executor": "Run",
+    "Python.stack-1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/wjd12/PycharmProjects/StudyAlgorithm/Implementation/Challenges",
+    "last_opened_file_path": "C:/Users/wjd12/PycharmProjects/StudyAlgorithm/DFS_BFS/Basic",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\DFS_BFS\Basic" />
+      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\DFS_BFS" />
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Implementation\Challenges" />
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Implementation\Basic" />
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Functions" />
-      <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Greedy\Challenges" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Implementation\Basic" />
@@ -102,6 +127,55 @@
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Greedy" />
       <recent name="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\Basic" />
     </key>
+  </component>
+  <component name="RunManager" selected="AutoCp Solution.DFS-BFS-1-answer">
+    <configuration name="DFS-BFS-1-answer" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\DFS_BFS\Basic\DFS-BFS-1-answer.py" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DFS-BFS-1" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\wjd12\PycharmProjects\StudyAlgorithm\DFS_BFS\Basic\DFS-BFS-1.py" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DFS-BFS-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudyAlgorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS_BFS/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS_BFS/Basic/DFS-BFS-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="AutoCp Solution.DFS-BFS-1-answer" />
+        <item itemvalue="AutoCp Solution.DFS-BFS-1" />
+        <item itemvalue="Python.DFS-BFS-1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
