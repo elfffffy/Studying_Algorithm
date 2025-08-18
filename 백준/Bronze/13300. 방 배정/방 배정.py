@@ -8,6 +8,9 @@ for _ in range(n):
 cnt = 0
 for i in range(1, 7):
     for g in range(2):
-        cnt += (dat[i][g] // k) + (dat[i][g] % k)
+        if dat[i][g] == 0: continue
+        cnt += (dat[i][g] // k)
+        if dat[i][g] % k != 0:
+            cnt += 1
 
 print(cnt)
