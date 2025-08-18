@@ -16,8 +16,7 @@ for start, end in times:
     min_pos = -1
     for idx, table in enumerate(time_table):
         if not table:
-            if min_v > 0:
-                min_pos = idx
+            min_pos = idx
 
         else:
             if (min_v > start - table[-1][1]) and (table[-1][1] < start):
