@@ -10,7 +10,6 @@ for tc in range(1, T + 1):
         q.append((num, idx))
 
     cnt = 0
-    target_idx = q[M][1]
 
     while q:
         max_v = max(q)[0]
@@ -21,7 +20,7 @@ for tc in range(1, T + 1):
         else:
             q.popleft()
             cnt += 1
-            if target_idx == now[1]:
+            if M == now[1]:
                 break
 
     print(cnt)
