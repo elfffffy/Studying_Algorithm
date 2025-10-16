@@ -1,8 +1,9 @@
 """
 백준 - 문제집
 """
-import heapq
-from collections import deque
+import heapq, sys
+
+input = sys.stdin.readline
 
 # N : 문제의 수
 # M : 정보의 개수
