@@ -1,3 +1,11 @@
+"""
+네트워크 연결
+"""
+import sys
+
+input = sys.stdin.readline
+
+
 def Find(x):
     if boss[x] == x:
         return x
