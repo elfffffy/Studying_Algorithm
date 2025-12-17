@@ -1,8 +1,3 @@
-"""
-네트워크 연결
-"""
-
-
 def Find(x):
     if boss[x] == x:
         return x
@@ -28,10 +23,15 @@ connections.sort(key=lambda x: x[-1])
 
 # Union-Find
 total_cost = 0
+cnt = 0
 boss = [x for x in range(N + 1)]
 for a, b, c in connections:
     if Find(a) == Find(b): continue
     Union(a, b)
     total_cost += c
+    cnt += 1
+
+    if cnt == N - 1:
+        break
 
 print(total_cost)
